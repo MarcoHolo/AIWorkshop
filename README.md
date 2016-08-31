@@ -3,7 +3,7 @@ Content for one day workshop on Microsoft AI Services.
 
 
 #Agenda
-1. (https://sway.com/ilqY15RbSrnNhBDs Introduction) 
+1. [Introduction](https://sway.com/ilqY15RbSrnNhBDs) 
 2. Overview Cognitive Services
 3. Face and Emotiondetection  
 4. Vision Api - Image and Video 
