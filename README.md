@@ -18,4 +18,4 @@ Content for one day workshop on Microsoft AI Services.
 https://dev.botframework.com/
 https://www.microsoft.com/cognitive-services/en-us/apis
 
-https://sway.com/s/ilqY15RbSrnNhBDs
+https://sway.com/ilqY15RbSrnNhBDs
